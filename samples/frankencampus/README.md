@@ -5,3 +5,5 @@
 * Processing: Audacity (cut, normalize, fade in and out)
 * License: [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](LICENSE-CC-BY-SA-4.0.md)
 * Creator: rsimai, Feb 2023
+
+![doors](doors.jpg "doors")
